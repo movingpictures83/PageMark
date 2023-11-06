@@ -1,0 +1,2 @@
+Prefix plugins/PageMark/example/
+Plugin PageMark inputfile parameters.txt outputfile output.txt
